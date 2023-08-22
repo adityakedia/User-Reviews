@@ -38,7 +38,7 @@ ____
 This project utilizes the following open-source libraries and tools:
 
 ### App Store Scraper
-A [Python library] (https://github.com/cowboy-bebug/app-store-scraper)for scraping Apple app store reviews.
+A [Python library](https://github.com/cowboy-bebug/app-store-scraper)for scraping Apple app store reviews.
 
 ### Streamlit 
 A web framework for building interactive dashboards and applications in Python.
