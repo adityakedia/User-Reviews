@@ -3,7 +3,7 @@ This project is a Python application that utilizes an app store scraper to colle
 
 ____
 ## Installation
-###Clone the repository
+### Clone the repository
 git clone https://github.com/adityakedia/User-Reviews.git
 
 ____
