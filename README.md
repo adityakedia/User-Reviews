@@ -40,7 +40,7 @@ Explore the results presented in the Streamlit dashboard, which provides interac
 ____
 ## Screenshots
 
-![image](https://rb.gy/k8jwm)
+![alt text](https://rb.gy/k8jwm)
 
 ![image](https://github.com/adityakedia/User-Reviews/assets/2786870/3137d0ed-20fe-4894-8477-c08a420a8b99)
 
