@@ -1,4 +1,4 @@
-by Aditya Kedia
+by Aditya Kedia | Jun 2023
 
 # App Store Review Analysis
 This project was done as an internal project to help the orgnization gather and analyze user reviews from Apple app store. This was to help the organization understand user sentiment and trends and make better strategic decisions. 
