@@ -40,7 +40,7 @@ Explore the results presented in the Streamlit dashboard, which provides interac
 ____
 ## Screenshots
 
-![My Remote Image]([https://rb.gy/k8jwm](https://file.notion.so/f/s/8dca3af5-7bae-4b40-a07f-c2836cd230a0/Untitled.png?id=5dc0ebc7-4217-4870-9f08-d30c13c289a2&table=block&spaceId=88bf9889-7860-4f8c-99cf-ee8a0e9f1c53&expirationTimestamp=1692856800000&signature=4ucitqzirLIeFDwcDYsSqHd53Qb7lmPejKt9JkCHU1U&downloadName=Untitled.png))
+![My Remote Image](https://file.notion.so/f/s/8dca3af5-7bae-4b40-a07f-c2836cd230a0/Untitled.png?id=5dc0ebc7-4217-4870-9f08-d30c13c289a2&table=block&spaceId=88bf9889-7860-4f8c-99cf-ee8a0e9f1c53&expirationTimestamp=1692856800000&signature=4ucitqzirLIeFDwcDYsSqHd53Qb7lmPejKt9JkCHU1U&downloadName=Untitled.png)
 
 ![image](https://github.com/adityakedia/User-Reviews/assets/2786870/3137d0ed-20fe-4894-8477-c08a420a8b99)
 
