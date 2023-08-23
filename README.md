@@ -38,6 +38,18 @@ Once the reviews are collected, it will perform various analyses, including
 Explore the results presented in the Streamlit dashboard, which provides interactive visualizations and insights based on the analyzed reviews.
 
 ____
+## Screenshots
+
+![image](https://github.com/adityakedia/User-Reviews/assets/2786870/209ecc40-f019-41fa-8924-d33cef6ce9a4)
+
+![image](https://github.com/adityakedia/User-Reviews/assets/2786870/3137d0ed-20fe-4894-8477-c08a420a8b99)
+
+![image](https://github.com/adityakedia/User-Reviews/assets/2786870/0e81614c-3816-4c5d-82ce-d715c2384e0b)
+
+![image](https://github.com/adityakedia/User-Reviews/assets/2786870/062a5195-553a-45aa-9277-451faed50708)
+
+
+____
 ## Acknowledgements
 This project utilizes the following open-source libraries and tools:
 
